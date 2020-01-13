@@ -20,7 +20,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Vrkansagara\\LaraOutPress\\": "src/"
+      "LaraOutPress\\": "src/LaraOutPress/"
     },
     "files": [
       "src/helper.php"
@@ -39,10 +39,10 @@
         "dev-master": "develop"
       },
       "providers": [
-        "Vrkansagara\\LaraOutPress\\ServiceProvider"
+        "LaraOutPress\\ServiceProvider"
       ],
       "aliases": {
-        "LaraOutPress": "Vrkansagara\\LaraOutPress\\Facade"
+        "LaraOutPress": "LaraOutPress\\Facade"
       }
     }
   },

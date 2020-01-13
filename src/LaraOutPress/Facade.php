@@ -1,5 +1,5 @@
 <?php
-namespace Vrkansagara\LaraOutPress;
+namespace LaraOutPress;
 
 /**
  * @copyright  Copyright (c) 2015-2019 Vallabh Kansagara <vrkansagara@gmail.com>

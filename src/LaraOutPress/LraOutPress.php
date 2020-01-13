@@ -1,6 +1,6 @@
 <?php
 
-namespace Vrkansagara\LaraOutPress;
+namespace LaraOutPress;
 
 use Illuminate\Contracts\Foundation\Application;
 

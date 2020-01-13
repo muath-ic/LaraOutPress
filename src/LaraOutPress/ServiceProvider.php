@@ -1,12 +1,12 @@
 <?php
-namespace Vrkansagara\LaraOutPress;
+namespace LaraOutPress;
 
 /**
  * @copyright  Copyright (c) 2015-2019 Vallabh Kansagara <vrkansagara@gmail.com>
  * @license    https://opensource.org/licenses/BSD-3-Clause New BSD License
  */
 
-use Vrkansagara\LaraOutPress\Middleware\AfterMiddleware;
+use LaraOutPress\Middleware\AfterMiddleware;
 use Illuminate\Contracts\Http\Kernel;
 
 class ServiceProvider extends \Illuminate\Support\ServiceProvider

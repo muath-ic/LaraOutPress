@@ -1,6 +1,6 @@
 <?php
 
-namespace Vrkansagara\LaraOutPress\Middleware;
+namespace LaraOutPress\Middleware;
 
 /**
  * @copyright  Copyright (c) 2015-2019 Vallabh Kansagara <vrkansagara@gmail.com>
@@ -9,7 +9,7 @@ namespace Vrkansagara\LaraOutPress\Middleware;
 
 
 use Closure;
-use Vrkansagara\LaraOutPress\LaraOutPress;
+use LaraOutPress\LaraOutPress;
 
 class AfterMiddleware
 {
